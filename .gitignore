@@ -1,0 +1,9 @@
+*.pyc
+*~
+data/*
+!data/SIMGEN_PUBLIC_DES.tar.gz
+!data/DES_BLIND+HOSTZ.tar.gz
+!data/DES_BLINDnoHOSTZ.tar.gz
+!data/DES_UNBLIND_KEY.tar.gz
+logs/*
+nohup.out
